@@ -12,7 +12,7 @@
   <a href="https://github.com/capa-cloud/capa-java"><strong>Java SDK</strong></a> ·
   <a href="https://github.com/capa-cloud/capa-python"><strong>Python SDK</strong></a> ·
   <a href="https://github.com/capa-cloud/capa-go"><strong>Go SDK</strong></a> ·
-  <a href="https://capa-cloud.github.io/capa.io/"><strong>Documentation</strong></a>
+  <a href="https://capa.rxcloud.group/"><strong>Documentation</strong></a>
 </p>
 
 ---
@@ -114,8 +114,8 @@ Capa integrates with the broader Multi-Runtime ecosystem:
 
 ## 📖 Resources
 
-- 📝 [Introduction Article](https://capa-cloud.github.io/capa.io/blog/2022/01/18/capa-mecha-sdk-of-cloud-application-api/)
-- 📚 [Documentation](https://capa-cloud.github.io/capa.io/)
+- 📝 [Introduction Article](https://capa.rxcloud.group/blog/2022/01/18/capa-mecha-sdk-of-cloud-application-api/)
+- 📚 [Documentation](https://capa.rxcloud.group/)
 - 💬 [Discussions](https://github.com/capa-cloud/capa-java/discussions)
 
 ---
@@ -144,5 +144,5 @@ All projects are open-source under the Apache License 2.0.
 
 <p align="center">
   <a href="https://github.com/capa-cloud">GitHub</a> ·
-  <a href="https://capa-cloud.github.io/capa.io/">Website</a>
+  <a href="https://capa.rxcloud.group/">Website</a>
 </p>
