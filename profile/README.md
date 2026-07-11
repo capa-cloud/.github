@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://github.com/capa-cloud/capa-java"><strong>Java SDK</strong></a> ·
-  <a href="https://github.com/capa-cloud/capa-python"><strong>Python SDK</strong></a> ·
   <a href="https://github.com/capa-cloud/capa-go"><strong>Go SDK</strong></a> ·
   <a href="https://capa.rxcloud.group/"><strong>Documentation</strong></a>
 </p>
@@ -41,7 +40,6 @@ The Sidecar architecture (Dapr, Layotto) represents the future of distributed sy
 | Project | Language | Description |
 |---------|----------|-------------|
 | [capa-java](https://github.com/capa-cloud/capa-java) | Java | 🏆 **Primary SDK** - Mecha SDK for Java applications |
-| [capa-python](https://github.com/capa-cloud/capa-python) | Python | Python SDK implementation |
 | [capa-go](https://github.com/capa-cloud/capa-go) | Go | Golang SDK implementation |
 
 ### API Specifications
@@ -108,7 +106,7 @@ Capa integrates with the broader Multi-Runtime ecosystem:
 |---------|--------------|
 | [Dapr](https://github.com/dapr/dapr) | Sidecar architecture reference |
 | [Layotto](https://github.com/mosn/layotto) | Sidecar implementation |
-| [Cloud Runtime APIs](https://github.com/reactivegroup) | API specifications |
+| [Cloud Runtime APIs](https://github.com/capa-cloud) | API specifications |
 
 ---
 
