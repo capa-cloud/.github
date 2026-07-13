@@ -114,7 +114,7 @@ Capa integrates with the broader Multi-Runtime ecosystem:
 
 - 📝 [Introduction Article](https://capa.rxcloud.group/blog/2022/01/18/capa-mecha-sdk-of-cloud-application-api/)
 - 📚 [Documentation](https://capa.rxcloud.group/)
-- 💬 [Discussions](https://github.com/capa-cloud/capa-java/discussions)
+- 💬 [Issues](https://github.com/capa-cloud/capa-java/issues)
 
 ---
 
